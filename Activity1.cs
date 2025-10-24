@@ -23,9 +23,9 @@ class Discrete
 
             Console.WriteLine("Do you want to continue? Press y/n");
             string again = Console.ReadLine().ToLower();
-            if (again != "y") break;
+            if (again != "y") break; //Break point.
         }
-    }  //Break point.
+    } 
         
         static void Divisibility(int num) {
 
