@@ -21,7 +21,7 @@ class Discrete
             Divisibility(num1);
             Console.WriteLine();
 
-            Console.WriteLine("Do you want to check the Divisibility? Press y/n");
+            Console.WriteLine("Do you want to continue? Press y/n");
             string again = Console.ReadLine().ToLower();
             if (again != "y") break;
         }
