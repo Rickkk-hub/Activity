@@ -13,12 +13,24 @@ class Discrete
             Console.WriteLine("Enter the 1st number");
             int num1 = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine("Enter the 2nd number");
+            int num2 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter the 3rd number");
+            int num3 = Convert.ToInt32(Console.ReadLine());
+
 
             Console.WriteLine("Checking the Divisibility");
             Console.WriteLine();
 
 
             Divisibility(num1);
+            Console.WriteLine();
+
+            Divisibility(num2);
+            Console.WriteLine();
+
+            Divisibility(num3);
             Console.WriteLine();
 
             Console.WriteLine("Do you want to continue? Press y/n");
