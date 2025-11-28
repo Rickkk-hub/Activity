@@ -1,0 +1,14 @@
+c:\Users\Rodman\Desktop\OOP\my-oop\bin\Debug\net9.0\my-oop.exe
+c:\Users\Rodman\Desktop\OOP\my-oop\bin\Debug\net9.0\my-oop.deps.json
+c:\Users\Rodman\Desktop\OOP\my-oop\bin\Debug\net9.0\my-oop.runtimeconfig.json
+c:\Users\Rodman\Desktop\OOP\my-oop\bin\Debug\net9.0\my-oop.dll
+c:\Users\Rodman\Desktop\OOP\my-oop\bin\Debug\net9.0\my-oop.pdb
+c:\Users\Rodman\Desktop\OOP\my-oop\obj\Debug\net9.0\my-oop.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Rodman\Desktop\OOP\my-oop\obj\Debug\net9.0\my-oop.AssemblyInfoInputs.cache
+c:\Users\Rodman\Desktop\OOP\my-oop\obj\Debug\net9.0\my-oop.AssemblyInfo.cs
+c:\Users\Rodman\Desktop\OOP\my-oop\obj\Debug\net9.0\my-oop.csproj.CoreCompileInputs.cache
+c:\Users\Rodman\Desktop\OOP\my-oop\obj\Debug\net9.0\my-oop.dll
+c:\Users\Rodman\Desktop\OOP\my-oop\obj\Debug\net9.0\refint\my-oop.dll
+c:\Users\Rodman\Desktop\OOP\my-oop\obj\Debug\net9.0\my-oop.pdb
+c:\Users\Rodman\Desktop\OOP\my-oop\obj\Debug\net9.0\my-oop.genruntimeconfig.cache
+c:\Users\Rodman\Desktop\OOP\my-oop\obj\Debug\net9.0\ref\my-oop.dll
